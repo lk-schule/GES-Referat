@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{Geschichte}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{2014 - 2015}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{2015 - 2016}{5}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{1}{2017}{6}{0}{1}
+\beamer@sectionintoc {2}{Aktuell kontrollierte Gebiete}{7}{0}{2}
+\beamer@sectionintoc {3}{Struktur}{8}{0}{3}
+\beamer@sectionintoc {4}{Wichtige Personen}{9}{0}{4}
+\beamer@sectionintoc {5}{Einfluss der westlichen Welt}{10}{0}{5}
