@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.25)  24 NOV 2017 08:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.25)  24 NOV 2017 09:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1039,6 +1039,13 @@ File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/mat
 ] [10
 
 ]
+Overfull \hbox (12.5691pt too wide) in paragraph at lines 85--85
+\T1/cmss/m/n/10.95 https://de.wikipedia.org/wiki/Islamischer_Staat_(Organisation), 
+ []
+
+[11
+
+]
 \tf@nav=\write6
 \openout6 = `document.nav'.
 
@@ -1048,11 +1055,11 @@ File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/mat
 \tf@snm=\write8
 \openout8 = `document.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 87.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
  (./document.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 87.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 87.
 Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: F45033EBB1FC9F2AB0D1AD995457B22E;387.
 
@@ -1062,18 +1069,18 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 17642 strings out of 492995
- 330650 string characters out of 6132704
+ 17650 strings out of 492995
+ 330719 string characters out of 6132704
  401452 words of memory out of 5000000
- 20747 multiletter control sequences out of 15000+600000
+ 20752 multiletter control sequences out of 15000+600000
  14092 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,55p,814b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb>
-Output written on document.pdf (10 pages, 58000 bytes).
+Output written on document.pdf (11 pages, 60266 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 131 compressed objects within 2 object streams
- 29 named destinations out of 1000 (max. 500000)
+ 178 PDF objects out of 1000 (max. 8388607)
+ 139 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
  99 words of extra memory for PDF output out of 10000 (max. 10000000)
 
