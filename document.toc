@@ -5,4 +5,6 @@
 \beamer@sectionintoc {2}{Aktuell kontrollierte Gebiete}{7}{0}{2}
 \beamer@sectionintoc {3}{Struktur}{8}{0}{3}
 \beamer@sectionintoc {4}{Wichtige Personen}{9}{0}{4}
-\beamer@sectionintoc {5}{Einfluss der westlichen Welt}{10}{0}{5}
+\beamer@subsectionintoc {4}{1}{Alte Anf\IeC {\"u}hrer}{9}{0}{4}
+\beamer@subsectionintoc {4}{2}{Aktuelle Anf\IeC {\"u}hrer}{10}{0}{4}
+\beamer@sectionintoc {5}{Einfluss der westlichen Welt}{11}{0}{5}
