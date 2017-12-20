@@ -3,3 +3,6 @@
 \beamer@sectionintoc {2}{Einfluss der westlichen Welt}{4}{0}{2}
 \beamer@subsectionintoc {2}{1}{Entstehung des IS}{4}{0}{2}
 \beamer@subsectionintoc {2}{2}{Wachsen des IS}{7}{0}{2}
+\beamer@sectionintoc {3}{Gliederung im IS}{11}{0}{3}
+\beamer@subsectionintoc {3}{1}{Anf\IeC {\"u}hrer des IS}{11}{0}{3}
+\beamer@subsectionintoc {3}{2}{Struktur im IS}{23}{0}{3}
