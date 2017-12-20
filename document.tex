@@ -1,16 +1,29 @@
-\documentclass{beamer}
-\setbeamertemplate{navigation symbols}{}
+\documentclass[10pt,a4paper]{beamer}
+				
+\usepackage[ngerman]{babel}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\usepackage{csquotes}
 
-\usetheme{Montpellier}
-\usepackage{ngerman}
-\beamersetuncovermixins{\opaqueness<1>{25}}{\opaqueness<2->{15}}
-\begin{document}
+\setbeamercolor{logo}{bg=white}  %controls the color of the logo area
+\setbeamertemplate{navigation symbols}{}
+
+\usetheme{PaloAlto}
+\renewcommand{\footnotesize}{\small}
+\newcommand{\pftn}[1]{\let\thefootnote\relax\footnotetext{\tiny #1}}
+\newcommand{\ftn}[2]{\footnote[#1]{\tiny #2}}
+
+\logo{\includegraphics[width=0.155\linewidth]{hbbk-logo}}
+\author{Luca Hülsmann \and Luca Kiebel \and Luca Hartmann}
 \title{Islamischer Staat}
-\author{Luca Hartmann \and Luca Hülsmann \and Luca Kiebel}
 \date{\today}
-
+\setlength{\itemsep}{10pt}
+\begin{document}
 \begin{frame}
 \titlepage
 \end{frame}
@@ -19,77 +32,62 @@
 \frametitle{Inhaltsverzeichnis}\tableofcontents
 \end{frame}
 
-\section{Geschichte}
+\section{Einleitung}
 \begin{frame}
-\frametitle{Geschichte}
-Die Geschichte des sog. Islamischen Staates von 2014 bis 2017
+\frametitle{Einleitung}
+\framesubtitle{Was ist der Islamische Staat?}
+Beim \enquote{Islamischen Staat} handelt es sich um eine islamistische Terrororganisation, deren Mitglieder sich zu einer radikalen Auslegung des sunnitischen Islam bekennen. Der Islamische Staat kontrolliert zur Zeit Teile Syriens und des Iraks. Hier hat die Organisation am 29. Juni 2014 ein Kalifat ausgerufen. Zur Zahl der IS-Kämpfer gibt es nur Schätzungen, die von einigen zehntausend bis zu mehreren hunderttausend reichen.\pftn{https://www.lpb-bw.de/islamischer-staat.html}
 \end{frame}
-
-\subsection{2014 - 2015}
-\begin{frame}
-\begin{itemize}
-	\item Falludscha und Ramadi erstürmt
-	\item Beratung um Invasion von USA und EU
-	\item Blitzoffensive auf Mossul
-	\item Raub von Geld und Ausrüstung i.W.v. 1,5 Milliarden USDollar
-\end{itemize}
-\end{frame}
-\subsection{2015 - 2016}
-\begin{frame}
-\begin{itemize}
-	\item Anti-IS-Koalition fliegt verstärkt Luftangriffe auf Mossul
-
-\end{itemize}
-\end{frame}
-\subsubsection{2017}
-\begin{frame}
-\begin{itemize}
-	\item{2017}
-\end{itemize}
-\end{frame}
-
-
-\section{Aktuell kontrollierte Gebiete}
-\begin{frame}
-\frametitle{Aktuell kontrollierte Gebiete}
-Laut Iraks Ministerpräsidenten Haider al-Abadi sei der IS aus militärischer Sicht ausgelöscht.
-Am Freitag, 17.11. hat die irakische Armee die letzte Stadt vom IS zurückerobert.
-\end{frame}
-
-
-\section{Struktur}
-\begin{frame}
-\frametitle{Struktur}
-\end{frame}
-
-% Hartmann
-\section{Wichtige Personen}
-\subsection{Alte Anführer}
-\begin{frame}
-\frametitle{Alte Anführer}
-
-\end{frame}
-
-\subsection{Aktuelle Anführer}
-\begin{frame}
-\frametitle{Aktuelle Anführer}
-
-\end{frame}
-
 
 \section{Einfluss der westlichen Welt}
+\subsection{Entstehung des IS}
 \begin{frame}
 \frametitle{Einfluss der westlichen Welt}
-
+\framesubtitle{Entstehung des Islamischen Staates}
+\begin{itemize}
+\item Der IS ist \enquote{made-in-the-USA}
+\pause
+\item USA unterstützen oft Terroristen
+\pause
+\item Besetzung des Irak sorgte für Arbeitslosigkeit
+\end{itemize}
+\pftn{https://www.globalresearch.ca/america-created-al-qaeda-and-the-isis-terror-group/5402881}
 \end{frame}
 
-\section*{Quellen}
+\subsection{Wachsen des IS}
 \begin{frame}
-\frametitle{Quellen}
+\frametitle{Einfluss der westlichen Welt}
+\framesubtitle{Wachsen des Islamischen Staates}
 \begin{itemize}
-	\item https://de.reuters.com/article/iran-is-idDEKBN1DL0PJ, abgerufen am 24.11.
-	\item https://de.wikipedia.org/wiki/Islamischer\_Staat\_(Organisation), abgerufen am 24.11.
+\item \enquote{Hilfe} bei der Destabilisierung des Syrischen Regimes\ftn{1}{https://www.n-tv.de/15177536}
+\pause
+\item Auflösung von Gefängnissen im Irak liefert Soldaten\ftn{2}{ https://www.theatlantic.com/international/archive/2015/10/how-isis-started-syria-iraq/412042/}
 \end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Einfluss der westlichen Welt}
+\framesubtitle{Wachsen des Islamischen Staates}
+\begin{itemize}
+\item Völliges Versagen der politischen Ordnung\ftn{3}{http://www.deutschlandfunkkultur.de/ursachen-des-is-terrors-die-verantwortung-des-westens.1270.de.html?article=321197}
+\pause  
+\item US-Außenminister John Kerry: \enquote{Wir haben den IS wachsen lassen}\ftn{4}{https://wikileaks.com/podesta-emails/emailid/357}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\titlepage
 \end{frame}
 
 \end{document}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% https://www.bpb.de/politik/extremismus/islamismus/202373/der-islamische-staat-interne-struktur-und-strategie?p=all
+%
+%
+%
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

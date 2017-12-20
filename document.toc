@@ -1,10 +1,5 @@
-\beamer@sectionintoc {1}{Geschichte}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{2014 - 2015}{4}{0}{1}
-\beamer@subsectionintoc {1}{2}{2015 - 2016}{5}{0}{1}
-\beamer@subsubsectionintoc {1}{2}{1}{2017}{6}{0}{1}
-\beamer@sectionintoc {2}{Aktuell kontrollierte Gebiete}{7}{0}{2}
-\beamer@sectionintoc {3}{Struktur}{8}{0}{3}
-\beamer@sectionintoc {4}{Wichtige Personen}{9}{0}{4}
-\beamer@subsectionintoc {4}{1}{Alte Anf\IeC {\"u}hrer}{9}{0}{4}
-\beamer@subsectionintoc {4}{2}{Aktuelle Anf\IeC {\"u}hrer}{10}{0}{4}
-\beamer@sectionintoc {5}{Einfluss der westlichen Welt}{11}{0}{5}
+\select@language {ngerman}
+\beamer@sectionintoc {1}{Einleitung}{3}{0}{1}
+\beamer@sectionintoc {2}{Einfluss der westlichen Welt}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Entstehung des IS}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{Wachsen des IS}{7}{0}{2}
