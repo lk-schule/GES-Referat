@@ -1,10 +1,10 @@
 \select@language {ngerman}
 \beamer@sectionintoc {1}{Einleitung}{3}{0}{1}
 \beamer@sectionintoc {2}{Geschichte}{4}{0}{2}
-\beamer@sectionintoc {3}{Wichtige Personen}{4}{0}{3}
-\beamer@subsectionintoc {3}{1}{Anf\IeC {\"u}hrer des IS}{4}{0}{3}
-\beamer@sectionintoc {4}{Aktuell kontrollierte Gebiete}{16}{0}{4}
-\beamer@sectionintoc {5}{Struktur im IS}{16}{0}{5}
-\beamer@sectionintoc {6}{Einfluss der westlichen Welt}{41}{0}{6}
-\beamer@subsectionintoc {6}{1}{Entstehung des IS}{41}{0}{6}
-\beamer@subsectionintoc {6}{2}{Wachsen des IS}{44}{0}{6}
+\beamer@sectionintoc {3}{Wichtige Personen}{11}{0}{3}
+\beamer@subsectionintoc {3}{1}{Anf\IeC {\"u}hrer des IS}{11}{0}{3}
+\beamer@sectionintoc {4}{Aktuell kontrollierte Gebiete}{23}{0}{4}
+\beamer@sectionintoc {5}{Struktur im IS}{24}{0}{5}
+\beamer@sectionintoc {6}{Einfluss der westlichen Welt}{49}{0}{6}
+\beamer@subsectionintoc {6}{1}{Entstehung des IS}{49}{0}{6}
+\beamer@subsectionintoc {6}{2}{Wachsen des IS}{52}{0}{6}
